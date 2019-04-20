@@ -5,7 +5,7 @@ permalink: /Now/
 author_profile: true
 ---
 
-## What i am doing now
+## What I am doing now
 
 There are somethings on my life right now:
   - Finishing my degree

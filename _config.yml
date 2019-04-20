@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WRupp / Site Title"
+title                    : "WRupp / My site"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
